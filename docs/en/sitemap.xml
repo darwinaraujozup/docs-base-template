@@ -3,137 +3,137 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/overview/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/overview/</loc>
+    <lastmod>2020-12-01T00:17:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/beds/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/beds/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/ponycopters/configuring-ponycopters/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/getting-started/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/getting-started/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/examples/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/examples/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/ponycopters/launching-ponycopters/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/ponycopters/launching-ponycopters/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tutorials/multi-bear/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tutorials/multi-bear/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/porridge/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/porridge/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/concepts/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/concepts/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/task/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/task/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tutorials/tutorial2/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tutorials/tutorial2/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tutorials/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tutorials/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/reference/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/reference/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/contribution-guidelines/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/contribution-guidelines/</loc>
-    <lastmod>2020-11-11T16:05:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://zupit.github.io/docs-ritchie/no/docs/"
+                href="https://zupit.github.io/docs-example/no/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/docs-ritchie/docs/"
+                href="https://zupit.github.io/docs-example/docs/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/getting-started/example-page/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/getting-started/example-page/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/reference/parameter-reference/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/reference/parameter-reference/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/docs/tasks/ponycopters/</loc>
+    <loc>https://zupit.github.io/docs-example/docs/tasks/ponycopters/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/</loc>
+    <loc>https://zupit.github.io/docs-example/</loc>
     <lastmod>2020-11-22T16:13:51-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://zupit.github.io/docs-ritchie/no/"
+                href="https://zupit.github.io/docs-example/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/docs-ritchie/"
+                href="https://zupit.github.io/docs-example/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/docs-ritchie/search/</loc>
+    <loc>https://zupit.github.io/docs-example/search/</loc>
     <lastmod>2020-11-11T16:05:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://zupit.github.io/docs-ritchie/no/search/"
+                href="https://zupit.github.io/docs-example/no/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/docs-ritchie/search/"
+                href="https://zupit.github.io/docs-example/search/"
                 />
   </url>
   

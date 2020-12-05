@@ -6,6 +6,6 @@ Project: 466 Zup - Relacionamento com Desenvolvedores
 
 No arquivo `Settings/config.toml` atualize as variaveis:
 
-- baseURL
-- title
-- logoName (Deve seguir o exemplo: "icons/nome_produto.svg")
+- `baseURL`
+- `title`
+- `logoName` (Deve seguir o exemplo: "icons/nome_produto.svg")

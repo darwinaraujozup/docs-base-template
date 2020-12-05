@@ -1,6 +1,6 @@
-baseURL = "https://zupit.github.io/docs-ritchie/"
+baseURL = "https://zupit.github.io/docs-example/"
 
-title = "Ritchie"
+title = "Zup's Example Documentation"
 
 publishDir = "../docs"
 
@@ -56,13 +56,13 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Zup's Open Source"
+title = "Zup's Example Documentation"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.no]
-title = "Zup's Open Source"
+title = "Zup's Example Documentation"
 description = "Docsy er operativsystem for skyen"
 languageName ="Norsk"
 contentDir = "content/no"
@@ -75,7 +75,7 @@ time_format_blog = "02.01.2006"
       unsafe = true
   [markup.highlight]
       # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-      style = "tango"
+      style = "native"
       # Uncomment if you want your chosen highlight style used for code blocks without a specified language
       # guessSyntax = "true"
 
@@ -84,6 +84,8 @@ time_format_blog = "02.01.2006"
 [params]
 copyright = "Zup"
 privacy_policy = "https://insights.zup.com.br/politica-privacidade"
+
+logoName = "icons/logo.svg"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]

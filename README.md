@@ -8,4 +8,6 @@ No arquivo `Settings/config.toml` atualize as variaveis:
 
 - `baseURL`
 - `title`
-- `logoName` (Deve seguir o exemplo: "icons/nome_produto.svg")
+- `main_slug_to_hide_primary`
+- `main_slug_to_hide_secondary`
+- `logoName`

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zup&#39;s Example Documentation – Documentation</title>
+    <title>Zup&#39;s Example Documentation – Zup IT</title>
     <link>https://zupit.github.io/docs-example/</link>
-    <description>Recent content in Documentation on Zup&#39;s Example Documentation</description>
+    <description>Recent content in Zup IT on Zup&#39;s Example Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://zupit.github.io/docs-example/index.xml" rel="self" type="application/rss+xml" />
